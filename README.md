@@ -3,7 +3,8 @@
 ## Overview
 
 In this project, I transformed an old PC and a Western Digital NAS into a fully functional home server. The goal was to centralize storage, manage media, automate downloads, handle backups, and enable secure remote access. Using **Ubuntu Server** and **Docker**, I deployed multiple applications to manage multimedia streaming, automate content downloads, and even provide password management, all while ensuring remote access security.
-![imagen](https://github.com/user-attachments/assets/1d28f6ae-e401-4a1b-950e-0d22be02b3ba)
+![imagen](https://github.com/user-attachments/assets/eb849f8f-9c65-4d83-ba97-dbee9805b420)
+
 
 ### Key Objectives:
 
